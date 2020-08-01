@@ -8,9 +8,6 @@ video,
 canvas {
   max-width: 100%; }
 
-h1{
-  color: white; }
-  
 body {
   background: #0d002c; }
 
@@ -35,7 +32,7 @@ body {
       padding: .6em;
       text-align: center;
       outline: none;
-      color: black;
+      color: #FFFFFF;
       border: none; }
       .container .form .findCountry:focus {
         box-shadow: 0 0 5px 1px #aa341d; }
